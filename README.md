@@ -6,6 +6,10 @@
 
 官网： [https://cn.vuejs.org/](https://cn.vuejs.org/)
 
+---
+# 正式开始：
+
+
 
 #### 生命周期：
 
@@ -59,4 +63,3 @@
         {{msg | toDou('12','5')}}
 
 补充：lodash 工具库 _库
-
